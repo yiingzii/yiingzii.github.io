@@ -9,9 +9,18 @@ redirect_from:
 
 Hi! I'm Yingzi Gao (高英梓), an Assistant Professor at the School of Computer Science and Technology, Shandong University.
 
-I obtained my Ph.D. from the Institute of Software, Chinese Academy of Sciences (UCAS), where I focused on the security of asynchronous distributed systems. 
+I obtained my Ph.D. from the Institute of Software, Chinese Academy of Sciences (UCAS), where I focused on the security of distributed systems. 
 
+My research interests include:
+- Byzantine fault-tolerant consensus protocols
+- Distributed key generation and reconfiguration
+- Threshold cryptography
+- Blockchain systems security
 
+### Education
+
+- **Ph.D. in Cyberspace Security**, University of Chinese Academy of Sciences (UCAS),  _2019 – 2025_  
+- **B.Sc. in Computer Science and Technology**, Shandong University,  _2015 – 2019_
 
 A data-driven personal website
 ======
