@@ -20,9 +20,25 @@ My research interests include:
 Education
 =======
 
-- **Ph.D. in Cyberspace Security**, University of Chinese Academy of Sciences (UCAS),  _2019 – 2025_  
+- **Ph.D. in Cyberspace Security**, University of Chinese Academy of Sciences,  _2019 – 2025_  
 - **B.Sc. in Computer Science and Technology**, Shandong University,  _2015 – 2019_
 
+
+Publications
+=======
+
+1. **Gao Y**, Lu Y, Lu Z, et al. “Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol.” _ACM CCS, 2022_.  
+   (CCF Rank A, CORE Rank A*)
+
+2. **Gao Y**, Lu Y, Lu Z, et al. “Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation.” _TIFS, 2025_.  
+   (CCF Rank A)
+
+3. **Gao Y**, Lu Y, Lu Z, et al.** “Efficient Asynchronous Byzantine Agreement Without Private Setups.” _IEEE ICDCS, 2022_.  
+   (CCF Rank B, CORE Rank A)
+
+4. Tian A, Ni P, **Gao Y**, et al. “Horcrux: Synthesize, Split, Shift and Stay Alive - Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments.” _NDSS, 2024_.  
+   (CCF Rank A, CORE Rank A*)
+   
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
