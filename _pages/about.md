@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -17,7 +17,8 @@ My research interests include:
 - Threshold cryptography
 - Blockchain systems security
 
-### Education
+Education
+=======
 
 - **Ph.D. in Cyberspace Security**, University of Chinese Academy of Sciences (UCAS),  _2019 – 2025_  
 - **B.Sc. in Computer Science and Technology**, Shandong University,  _2015 – 2019_
