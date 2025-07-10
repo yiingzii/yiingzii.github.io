@@ -17,6 +17,8 @@ My research interests include:
 - Threshold cryptography
 - Blockchain systems security
 
+欢迎各位同学关注我的研究方向！如果你对区块链共识、分布式系统安全、门限密码系统等领域感兴趣，欢迎随时联系我！我们一起探索更多有趣的课题，共同成长与进步！
+
 <br>
 
 Education
@@ -33,19 +35,19 @@ Publications
 
 - Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
-  - _ACM CCS, 2022_  *(CCF Rank A, CORE Rank A*)*
+  - _ACM CCS, 2022_  /*(CCF Rank A, CORE Rank A*)/*
 
 - Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Wang Y, Xu J
-  - _TIFS, 2025_.  *(CCF Rank A)*
+  - _TIFS, 2025_.  /*(CCF Rank A)/*
 
 - Efficient Asynchronous Byzantine Agreement Without Private Setups
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
-  - _IEEE ICDCS, 2022_  *(CCF Rank B, CORE Rank A)*
+  - _IEEE ICDCS, 2022_  /*(CCF Rank B, CORE Rank A)/*
 
 - Horcrux: Synthesize, Split, Shift and Stay Alive - Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments
   - Tian A, Ni P, **Gao Y**, Xu J
-  - _NDSS, 2024_  *(CCF Rank A, CORE Rank A*)*
+  - _NDSS, 2024_  /*(CCF Rank A, CORE Rank A*)/*
 
 <br>   
 
