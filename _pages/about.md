@@ -39,7 +39,7 @@ Publications
 
 - Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Wang Y, Xu J
-  - _TIFS, 2025_.  *(CCF Rank A)*
+  - _IEEE TIFS, 2025_.  *(CCF Rank A)*
 
 - Efficient Asynchronous Byzantine Agreement Without Private Setups
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
