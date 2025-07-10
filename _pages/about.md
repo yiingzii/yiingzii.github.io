@@ -27,17 +27,13 @@ Education
 Publications
 =======
 
-1. **Gao Y**, Lu Y, Lu Z, et al. “Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol.” _ACM CCS, 2022_.  
-   (CCF Rank A, CORE Rank A*)
+**Gao Y**, Lu Y, Lu Z, et al. “Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol.” _ACM CCS, 2022_.  (CCF Rank A, CORE Rank A*)
 
-2. **Gao Y**, Lu Y, Lu Z, et al. “Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation.” _TIFS, 2025_.  
-   (CCF Rank A)
+**Gao Y**, Lu Y, Lu Z, et al. “Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation.” _TIFS, 2025_.  (CCF Rank A)
 
-3. **Gao Y**, Lu Y, Lu Z, et al.** “Efficient Asynchronous Byzantine Agreement Without Private Setups.” _IEEE ICDCS, 2022_.  
-   (CCF Rank B, CORE Rank A)
+**Gao Y**, Lu Y, Lu Z, et al.** “Efficient Asynchronous Byzantine Agreement Without Private Setups.” _IEEE ICDCS, 2022_.  (CCF Rank B, CORE Rank A)
 
-4. Tian A, Ni P, **Gao Y**, et al. “Horcrux: Synthesize, Split, Shift and Stay Alive - Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments.” _NDSS, 2024_.  
-   (CCF Rank A, CORE Rank A*)
+Tian A, Ni P, **Gao Y**, et al. “Horcrux: Synthesize, Split, Shift and Stay Alive - Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments.” _NDSS, 2024_.  (CCF Rank A, CORE Rank A*)
    
 A data-driven personal website
 ======
