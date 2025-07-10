@@ -35,19 +35,19 @@ Publications
 
 - Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
-  - _ACM CCS, 2022_  \*(CCF Rank A, CORE Rank A*)\*
+  - _ACM CCS, 2022_  *(CCF Rank A, CORE Rank A\*)*
 
 - Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Wang Y, Xu J
-  - _TIFS, 2025_.  \*(CCF Rank A)\*
+  - _TIFS, 2025_.  *(CCF Rank A)*
 
 - Efficient Asynchronous Byzantine Agreement Without Private Setups
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
-  - _IEEE ICDCS, 2022_  \*(CCF Rank B, CORE Rank A)\*
+  - _IEEE ICDCS, 2022_  *(CCF Rank B, CORE Rank A)*
 
 - Horcrux: Synthesize, Split, Shift and Stay Alive - Preventing Channel Depletion via Universal and Enhanced Multi-hop Payments
   - Tian A, Ni P, **Gao Y**, Xu J
-  - _NDSS, 2024_  \*(CCF Rank A, CORE Rank A*)\*
+  - _NDSS, 2024_  *(CCF Rank A, CORE Rank A\*)*
 
 <br>   
 
