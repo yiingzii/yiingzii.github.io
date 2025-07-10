@@ -17,7 +17,7 @@ My research interests include:
 - Threshold cryptography
 - Blockchain systems security
 
-
+<br>
 Education
 ==================
 
@@ -25,7 +25,7 @@ Education
 - **Ph.D. in Cyberspace Security**, University of Chinese Academy of Sciences,  _2019 – 2025_  
 - **B.Sc. in Computer Science and Technology**, Shandong University,  _2015 – 2019_
 
-
+<br>
 Publications
 ==================
 
@@ -45,7 +45,7 @@ Publications
   - Tian A, Ni P, **Gao Y**, Xu J
   - _NDSS, 2024_  *(CCF Rank A, CORE Rank A*)*
 
-   
+<br>   
 Academic Service
 ==================
 
