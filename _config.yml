@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Yingzi Gao/gaoyingzi31@gmail.com"
+title                    : "Yingzi Gao / gaoyingzi@sdu.edu.cn"
 title_separator          : "-"
 name                     : &name "Yingzi Gao"
 # description              : &description "personal description"
@@ -29,7 +29,7 @@ author:
   # location         : "Earth"
   # employer         : "Red Brick University"
   uri              : # URL
-  email            : "gaoyingzi31@gmail.com" 
+  email            : "gaoyingzi@sdu.edu.cn" 
 
   # Academic websites
   academia         : # URL
