@@ -30,13 +30,17 @@ Education
 
 <br>
 
-Publications
+Selected Publications
 ==================
 
 - Dumbo-ng: Asynchronous Byzantine Fault Tolerance Protocol
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Xu J, Zhang Z
   - _ACM CCS, 2022_  *(CCF Rank A, CORE Rank A\*)*
 
+- Practical asynchronous distributed key reconfiguration and its applications
+  - Feng H*, **Gao Y***, Lu Y, Tang Q, Xu J (<small>* Equal contribution</small>)
+  - _IEEE S&P, 2026_ *(CCF Rank A, CORE Rank A\*)*
+    
 - Turritopsis: Asynchronous BFT Made Long-Lived with Dynamic Participation
   - **Gao Y**, Lu Y, Lu Z, Tang Q, Wang Y, Xu J
   - _IEEE TIFS, 2025_.  *(CCF Rank A)*
@@ -54,19 +58,24 @@ Publications
 Academic Service
 ==================
 
-PC Member
-----------
+- PC Member
 
-ACM CCS 2025 Posters & Demos
+  - ACM Conference on Computer and Communications Security (CCS 2025) Posters & Demos
+  - IEEE International Conference on Distributed Ledger Technologies (ICDLT 2025)
 
-Conference Reviewing
-----------
-
-NDSS 2023, CCS 2025, ASIACRYPT 2022, PODC 2023, FC 2025, etc.  
+- Conference Reviewing
+  - Network and Distributed System Security (NDSS 2023)
+  - ACM Conference on Computer and Communications Security (CCS 2025)
+  - Asiacrypt 2022
+  - ACM Symposium on Principles of Distributed Computing (PODC 2023)
+  - Financial Cryptography and Data Security (FC 2025)
+  - ...  
 
 Journal Reviewing
 ----------
 
-TDSC, TIFS, etc.
+- IEEE Transactions on Dependable and Secure Computing (TDSC)
+- IEEE Transactions on Information Forensics and Security (TIFS)
+- ...
   
 
