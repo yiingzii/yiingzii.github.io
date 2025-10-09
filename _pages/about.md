@@ -71,11 +71,9 @@ Academic Service
   - Financial Cryptography and Data Security (FC 2025)
   - ...  
 
-Journal Reviewing
-----------
-
-- IEEE Transactions on Dependable and Secure Computing (TDSC)
-- IEEE Transactions on Information Forensics and Security (TIFS)
-- ...
+- Journal Reviewing
+  - IEEE Transactions on Dependable and Secure Computing (TDSC)
+  - IEEE Transactions on Information Forensics and Security (TIFS)
+  - ...
   
 
