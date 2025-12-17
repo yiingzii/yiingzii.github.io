@@ -53,6 +53,10 @@ Selected Publications
   - Tian A, Ni P, **Gao Y**, Xu J
   - _NDSS, 2024_  *(CCF Rank A, CORE Rank A\*)*
 
+- Mobius: Enabling Byzantine-Resilient Single Secret Leader Election with Uniquely Verifiable State
+  - Dou H, Ni P, **Gao Y**, Xu J
+  - _NDSS, 2026_  *(CCF Rank A, CORE Rank A\*)*
+
 <br>   
 
 Academic Service
